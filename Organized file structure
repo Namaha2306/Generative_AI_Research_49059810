@@ -1,0 +1,33 @@
+Generative_AI_Research_SID/
+│
+├── Literature_Review/
+│   ├── Journal_Articles/
+│   ├── Conference_Papers/
+│   ├── Books/
+│   └── News_Articles/
+│
+├── Quantitative_Analysis/
+│   ├── Survey_Data/         # raw csv, excel
+│   ├── Survey_Questions/
+│   ├── Scripts/             # Python/R code
+│   └── Reports/
+│
+├── Qualitative_Analysis/
+│   ├── Transcripts/
+│   ├── Protocols/
+│   ├── Consent_Forms/       # restricted access
+│   ├── Insights_Report/
+│   └── Visualisations/
+│
+├── Drafts_and_Reports/
+│   ├── Proposals/
+│   ├── Conference_Drafts/
+│   └── Final_Report/
+│
+├── Additional_Materials/
+│   ├── Info_Sheets/
+│   ├── Photos/
+│   └── Media_Files/
+│
+├── Project_logbook.txt
+└── README.md
